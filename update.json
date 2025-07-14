@@ -1,6 +1,6 @@
 {
     "version": "3.1.0",
     "versionCode": 4,
-    "zipUrl": "https://github.com/Xgoushi/mystuff/raw/refs/heads/main/zygisk-X-Project.zip",
+    "zipUrl": "https://raw.githubusercontent.com/Xgoushi/mystuff/main/zygisk-X-Project.zip",
     "changelog": "- Updated bypass methods\n- Improved stability\n- Added new features"
 }
