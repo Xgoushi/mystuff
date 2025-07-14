@@ -1,9 +1,6 @@
 {
     "version": "3.1.0",
     "versionCode": 4,
-    "downloadUrl": "https://github.com/Xgoushi/mystuff/raw/refs/heads/main/zygisk-X-Project.zip",
-    "changelog": "- Updated bypass methods\n- Improved stability\n- Added new features",
-    "mandatory": false,
-    "minMagisk": 20400,
-    "telegram": "https://t.me/XProjectAB"
+    "zipUrl": "https://github.com/Xgoushi/mystuff/raw/refs/heads/main/zygisk-X-Project.zip",
+    "changelog": "- Updated bypass methods\n- Improved stability\n- Added new features"
 }
